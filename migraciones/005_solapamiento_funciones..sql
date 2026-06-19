@@ -1,4 +1,3 @@
--- Evita que existan funciones a la misma vez en una sala.
 SET search_path TO cine;
 
 CREATE OR REPLACE FUNCTION revisar_horario()

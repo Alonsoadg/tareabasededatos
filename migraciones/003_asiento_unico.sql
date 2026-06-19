@@ -1,4 +1,3 @@
---Evita vender el mismo asiento dos veces para la misma función.
 SET search_path TO cine;
 
 ALTER TABLE entrada

@@ -1,6 +1,6 @@
 CREATE SCHEMA IF NOT EXISTS cine;
 
-SET search_path TO cine;jkiu
+SET search_path TO cine;
 
 CREATE TABLE IF NOT EXISTS schema_migrations(
     version TEXT PRIMARY KEY,
